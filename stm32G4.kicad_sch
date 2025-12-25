@@ -1,0 +1,939 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "97277ecc-4d45-42d3-be9a-6b43805ad0c6")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 173.99 107.95) (xy 219.71 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e52aa65-4022-4492-ba07-b8cca2bf6e58")
+	)
+	(wire
+		(pts
+			(xy 173.99 120.65) (xy 219.71 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15b965f9-9e42-4496-a49d-2992752858d2")
+	)
+	(wire
+		(pts
+			(xy 173.99 58.42) (xy 219.71 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ba1be6a-99c2-40ea-b2ae-4b709881d18d")
+	)
+	(wire
+		(pts
+			(xy 173.99 87.63) (xy 219.71 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a8fb85e-f702-4362-8d7a-06bc096ba6b0")
+	)
+	(wire
+		(pts
+			(xy 173.99 68.58) (xy 219.71 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d3c2517-9d86-4e3d-8a15-a5c65332af8c")
+	)
+	(wire
+		(pts
+			(xy 173.99 90.17) (xy 219.71 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cee5c33-f755-480d-90c7-f49885263f03")
+	)
+	(wire
+		(pts
+			(xy 173.99 118.11) (xy 219.71 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45e75d6a-094b-401f-8b7c-838e169fcabb")
+	)
+	(wire
+		(pts
+			(xy 173.99 82.55) (xy 219.71 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49fde425-6812-4dab-bd37-3a88895e4dae")
+	)
+	(wire
+		(pts
+			(xy 173.99 85.09) (xy 219.71 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d80ed86-16c9-40ae-8f37-b2c0cf5898ec")
+	)
+	(wire
+		(pts
+			(xy 173.99 66.04) (xy 219.71 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96a364b8-d9c3-4c22-a3a7-1530b6e5e28c")
+	)
+	(wire
+		(pts
+			(xy 173.99 110.49) (xy 219.71 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f2268c8-2af5-4c30-a32f-6d81cf5dae99")
+	)
+	(wire
+		(pts
+			(xy 173.99 92.71) (xy 219.71 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0a07c5a-c33f-4614-b64a-91c3f53f7b19")
+	)
+	(wire
+		(pts
+			(xy 173.99 80.01) (xy 219.71 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bceef874-42dc-43c3-a26b-ec6c54ba1f36")
+	)
+	(wire
+		(pts
+			(xy 173.99 63.5) (xy 219.71 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf65ef0e-f1fb-4a2f-81cc-dbae85e43955")
+	)
+	(wire
+		(pts
+			(xy 173.99 60.96) (xy 219.71 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5d08267-5b7a-4678-94f5-2df99555683b")
+	)
+	(wire
+		(pts
+			(xy 173.99 55.88) (xy 219.71 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd7f9056-03b5-4daa-a503-d39959b50d83")
+	)
+	(wire
+		(pts
+			(xy 173.99 115.57) (xy 219.71 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1b6c5b0-9574-4688-8f1e-4722b14c5f7a")
+	)
+	(wire
+		(pts
+			(xy 173.99 113.03) (xy 219.71 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e39668b5-6541-4904-9c1a-3fefd5e88f98")
+	)
+	(label "VSENSE_A"
+		(at 203.2 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1988cf84-8c19-4464-a7b4-619712f767b1")
+	)
+	(label "SHC"
+		(at 203.2 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1e241e51-1715-427b-85d6-ac99a087d862")
+	)
+	(label "SNB"
+		(at 203.2 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "22b9856b-8b99-4b58-ba42-158848063443")
+	)
+	(label "SPB"
+		(at 203.2 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "29bb65a5-1883-444d-a40d-fdccf6d55f31")
+	)
+	(label "GLB"
+		(at 203.2 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "35ac17fc-0f6e-499c-be9c-b16028c57e74")
+	)
+	(label "GHA"
+		(at 203.2 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4b010903-f3c7-4d94-a482-d40588c758ae")
+	)
+	(label "GHB"
+		(at 203.2 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "793ceeac-f960-495d-8fef-f044d22a35ee")
+	)
+	(label "VSENSE_B"
+		(at 203.2 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7a813f3e-3103-4881-8316-91f884ffdd7d")
+	)
+	(label "SNC"
+		(at 203.2 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8cd0283a-c039-480b-8c9e-ffc5620f5980")
+	)
+	(label "SHA"
+		(at 203.2 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9db8ed15-be30-4f26-850b-3984bf8e352d")
+	)
+	(label "GHC"
+		(at 203.2 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9fbcb004-89a7-4d57-acb9-0c46f9ed14ed")
+	)
+	(label "SPA"
+		(at 203.2 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ada63e0b-9409-4e0f-b0fe-80b096a852fd")
+	)
+	(label "SHB"
+		(at 203.2 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b36185f1-726a-401c-b2d0-911f57bd4330")
+	)
+	(label "SPC"
+		(at 203.2 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bb233e35-bc89-4f63-96d8-1ac9aafa2f21")
+	)
+	(label "GLA"
+		(at 203.2 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cdcf62cb-8b06-4121-b210-852af157f753")
+	)
+	(label "VSENSE_C"
+		(at 203.2 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da2b1213-04c7-4821-90c8-e83d04acfbff")
+	)
+	(label "SNA"
+		(at 203.2 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e36ee4e4-fd64-48a9-be83-8fa225265e10")
+	)
+	(label "GLC"
+		(at 203.2 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fd0ed510-3b79-4f8b-964e-7b7aeb36e675")
+	)
+	(sheet
+		(at 219.71 106.68)
+		(size 40.64 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 60 239 1.0000)
+		)
+		(uuid "53a59a99-82c2-48d5-ba59-2eaf6f5f0b2b")
+		(property "Sheetname" "phaseC Sheet"
+			(at 215.392 106.172 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "phase.kicad_sch"
+			(at 220.726 122.428 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Gate_high_x" input
+			(at 219.71 113.03 180)
+			(uuid "57d6a764-3f17-4ce9-a998-73022225f9da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Gate_low_x" input
+			(at 219.71 110.49 180)
+			(uuid "4556494f-3009-4670-9da2-6f4eb75be98b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Source_high_x" input
+			(at 219.71 115.57 180)
+			(uuid "e5004d78-7a68-493b-949f-44f441ed7b0d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Source_low_shunt_n_x" output
+			(at 219.71 120.65 180)
+			(uuid "b2acc1bd-34ce-4a5e-a639-b29dbba62bbd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Source_low_shunt_p_x" output
+			(at 219.71 118.11 180)
+			(uuid "41ae82d4-a20e-4c43-80ae-e9783fc3a657")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VSENSE_x" output
+			(at 219.71 107.95 180)
+			(uuid "322ce1e9-0aae-48c3-921c-5a1828596bda")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "stm32G4"
+				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 133.35 52.07)
+		(size 40.64 69.85)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 55 41 1.0000)
+		)
+		(uuid "9223e125-7c28-4305-a4e4-f70e2a17a8a2")
+		(property "Sheetname" "Microcontroller Sheet"
+			(at 113.538 49.022 0)
+			(effects
+				(font
+					(size 5.08 5.08)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stm32.kicad_sch"
+			(at 142.24 118.618 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GHA" output
+			(at 173.99 60.96 0)
+			(uuid "3e01e190-fcc1-4149-a56c-8b7988caa66d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GHB" output
+			(at 173.99 85.09 0)
+			(uuid "5ae88c9d-bf10-4398-acb9-140f0ba84515")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GHC" output
+			(at 173.99 113.03 0)
+			(uuid "44a01820-5095-48ca-8f12-40bfc2db3dd9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GLA" output
+			(at 173.99 58.42 0)
+			(uuid "64ce97a7-8ad3-48bd-8798-ffb673922728")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GLB" output
+			(at 173.99 82.55 0)
+			(uuid "4ee6093f-48bc-4b9d-af0b-53a9b488deb8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GLC" output
+			(at 173.99 110.49 0)
+			(uuid "9801a63c-0407-47f0-8c41-2ef8676c92c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SHA" output
+			(at 173.99 63.5 0)
+			(uuid "6c1b61b3-2d3b-4259-8832-99697659da61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SHB" output
+			(at 173.99 87.63 0)
+			(uuid "6f2de845-7541-4c49-b2f2-12525b73a6dd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SHC" output
+			(at 173.99 115.57 0)
+			(uuid "771257cf-4537-4f4a-8e93-d032b8f9b06b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SNA" input
+			(at 173.99 68.58 0)
+			(uuid "b091e796-eb3a-42f4-b684-d6e71593caa6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SNB" input
+			(at 173.99 92.71 0)
+			(uuid "af1b9cac-27fe-4c3b-9cae-266721c3d0f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SNC" input
+			(at 173.99 120.65 0)
+			(uuid "01b118e3-027a-4272-b8cd-b3cb1ed8e3e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPA" input
+			(at 173.99 66.04 0)
+			(uuid "4a8b5ce2-f1b4-4fe0-a8cb-2ceab052d60f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPB" input
+			(at 173.99 90.17 0)
+			(uuid "b18df192-14d7-49bb-8b17-529343d3e7c4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPC" input
+			(at 173.99 118.11 0)
+			(uuid "4e19fe29-0144-48a9-866d-7fdd75fddf29")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VSENSE_PHASE_A" input
+			(at 173.99 55.88 0)
+			(uuid "f86a02bf-75e2-4880-a9f7-e2f78845f529")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VSENSE_PHASE_B" input
+			(at 173.99 80.01 0)
+			(uuid "461da8e4-5c75-48ec-9576-60ee08a09a2c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VSENSE_PHASE_C" input
+			(at 173.99 107.95 0)
+			(uuid "0f99ab53-c051-4db5-9078-05541319ff8b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "stm32G4"
+				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 219.71 78.74)
+		(size 40.64 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 60 239 1.0000)
+		)
+		(uuid "9831b84f-4b90-4e1e-8c15-a82856db4ae4")
+		(property "Sheetname" "phaseB Sheet"
+			(at 216.408 77.978 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "phase.kicad_sch"
+			(at 219.71 95.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Gate_high_x" input
+			(at 219.71 85.09 180)
+			(uuid "21921abe-8ce8-4a39-9729-8e1c8da5e345")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Gate_low_x" input
+			(at 219.71 82.55 180)
+			(uuid "fd1465ac-99cf-4cb9-bc78-4a1c33f662d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Source_high_x" input
+			(at 219.71 87.63 180)
+			(uuid "d5cc5db6-f198-47ad-8ceb-9f31db131671")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Source_low_shunt_n_x" output
+			(at 219.71 92.71 180)
+			(uuid "cc5771bd-c790-4eb4-ac94-890f1c13bb68")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Source_low_shunt_p_x" output
+			(at 219.71 90.17 180)
+			(uuid "9481bdf3-5d72-444d-bdcb-5ceca159cce8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VSENSE_x" output
+			(at 219.71 80.01 180)
+			(uuid "edde818d-666b-44b7-837c-20c94cf2e8b2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "stm32G4"
+				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 57.15)
+		(size 40.64 64.77)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 13 255 35 1.0000)
+		)
+		(uuid "ca9c205f-b15c-46a5-8659-6dff36f76f61")
+		(property "Sheetname" "Power Sheet"
+			(at 23.114 55.626 0)
+			(effects
+				(font
+					(size 7.62 7.62)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 49.276 123.698 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stm32G4"
+				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 219.71 54.61)
+		(size 40.64 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 60 239 1.0000)
+		)
+		(uuid "e1103863-e74c-4dd1-8dcf-bcb3782f7fa8")
+		(property "Sheetname" "phaseA Sheet"
+			(at 215.392 53.594 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "phase.kicad_sch"
+			(at 219.964 72.136 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Gate_high_x" input
+			(at 219.71 60.96 180)
+			(uuid "257ef924-1fd4-4920-a91c-c20c42d93640")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Gate_low_x" input
+			(at 219.71 58.42 180)
+			(uuid "7ba2c954-f05f-4ccb-bd85-1af6a9eaa589")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Source_high_x" input
+			(at 219.71 63.5 180)
+			(uuid "050419dd-3bf4-4573-a74a-f52f4eb4cba7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Source_low_shunt_n_x" output
+			(at 219.71 68.58 180)
+			(uuid "13c920d6-3372-4b12-ad74-d0565223d695")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Source_low_shunt_p_x" output
+			(at 219.71 66.04 180)
+			(uuid "17473d53-2968-4270-9d7f-2e3888d0620e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VSENSE_x" output
+			(at 219.71 55.88 180)
+			(uuid "7bc62da7-7f72-413b-ad87-bc63f732c783")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "stm32G4"
+				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
