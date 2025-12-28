@@ -474,7 +474,7 @@
   },
   "meta": {
     "filename": "stm32G4.kicad_pro",
-    "version": 1
+    "version": 3
   },
   "net_settings": {
     "classes": [
@@ -489,6 +489,7 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.635,
@@ -506,6 +507,7 @@
         "microvia_drill": 0.1,
         "name": "50_ohm",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.177038,
         "via_diameter": 0.6,
@@ -523,6 +525,7 @@
         "microvia_drill": 0.1,
         "name": "GND",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.508,
         "via_diameter": 0.635,
@@ -540,6 +543,7 @@
         "microvia_drill": 0.1,
         "name": "power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.508,
         "via_diameter": 0.635,
@@ -557,6 +561,7 @@
         "microvia_drill": 0.1,
         "name": "spi",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.34925,
         "via_diameter": 0.508,
@@ -574,6 +579,7 @@
         "microvia_drill": 0.1,
         "name": "swd",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.34925,
         "via_diameter": 0.508,
@@ -582,15 +588,21 @@
       }
     ],
     "meta": {
-      "version": 3
+      "version": 4
     },
     "net_colors": null,
     "netclass_assignments": {
-      "/Power Sheet/USB_5V": [
-        "power"
+      "/Microcontroller Sheet/OSC32_IN": [
+        "50_ohm"
       ],
-      "GND": [
-        "power"
+      "/Microcontroller Sheet/OSC32_OUT": [
+        "50_ohm"
+      ],
+      "Net-(U1-PC14-OSC32_IN)": [
+        "50_ohm"
+      ],
+      "Net-(U1-PC15-OSC32_OUT)": [
+        "50_ohm"
       ]
     },
     "netclass_patterns": [
