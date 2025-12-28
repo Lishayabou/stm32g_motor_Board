@@ -570,7 +570,14 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/Power Sheet/USB_5V": [
+        "power"
+      ],
+      "GND": [
+        "power"
+      ]
+    },
     "netclass_patterns": [
       {
         "netclass": "power",
