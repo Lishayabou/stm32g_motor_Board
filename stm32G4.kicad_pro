@@ -598,6 +598,18 @@
       "/Microcontroller Sheet/OSC32_OUT": [
         "50_ohm"
       ],
+      "/Microcontroller Sheet/OSC_IN": [
+        "50_ohm"
+      ],
+      "/Microcontroller Sheet/OSC_OUT": [
+        "50_ohm"
+      ],
+      "/Power Sheet/USB_5V": [
+        "power"
+      ],
+      "GND": [
+        "power"
+      ],
       "Net-(U1-PC14-OSC32_IN)": [
         "50_ohm"
       ],
