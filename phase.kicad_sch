@@ -1686,11 +1686,11 @@
 		(instances
 			(project "stm32G4"
 				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6/53a59a99-82c2-48d5-ba59-2eaf6f5f0b2b"
-					(reference "#PWR065")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6/9831b84f-4b90-4e1e-8c15-a82856db4ae4"
-					(reference "#PWR065")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6/e1103863-e74c-4dd1-8dcf-bcb3782f7fa8"
@@ -2135,11 +2135,11 @@
 		(instances
 			(project "stm32G4"
 				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6/53a59a99-82c2-48d5-ba59-2eaf6f5f0b2b"
-					(reference "#PWR05")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6/9831b84f-4b90-4e1e-8c15-a82856db4ae4"
-					(reference "#PWR05")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6/e1103863-e74c-4dd1-8dcf-bcb3782f7fa8"
@@ -2208,11 +2208,11 @@
 		(instances
 			(project "stm32G4"
 				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6/53a59a99-82c2-48d5-ba59-2eaf6f5f0b2b"
-					(reference "#PWR014")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6/9831b84f-4b90-4e1e-8c15-a82856db4ae4"
-					(reference "#PWR014")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 				(path "/97277ecc-4d45-42d3-be9a-6b43805ad0c6/e1103863-e74c-4dd1-8dcf-bcb3782f7fa8"
